@@ -30,7 +30,7 @@ Ingeniero en Informática con experiencia en el ciclo completo de soluciones dig
 * **Visión Asistida (Proyecto de Título)** 👁️♿
     * App móvil desarrollada con **Flutter** y **Dart** para asistencia en tiempo real a personas con discapacidad visual.
     * Implementación de **Inteligencia Artificial** y reconocimiento de imágenes para interpretar el entorno y proporcionar feedback por síntesis de voz.
-* **[RegistrAPP](https://github.com/Nashrem/RegristAPP)** 📱
+* **[RegistrAPP](Proyecto Universitario)** 📱
     * Aplicación móvil de asistencia académica desarrollada con **Ionic** y **Angular**.
 
 
