@@ -9,7 +9,7 @@ Ingeniero en Informática con experiencia en el ciclo completo de soluciones dig
 
 | Categoría | Herramientas |
 | :--- | :--- |
-| **Frontend & Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frontend & Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
 | **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | **Data & Automation** | ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white) |
 | **No-Code / Testing** | ![Bubble](https://img.shields.io/badge/Bubble-000000?style=for-the-badge&logo=bubble&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
@@ -30,9 +30,8 @@ Ingeniero en Informática con experiencia en el ciclo completo de soluciones dig
 * **Visión Asistida (Proyecto de Título)** 👁️♿
     * App móvil desarrollada con **Flutter** y **Dart** para asistencia en tiempo real a personas con discapacidad visual.
     * Implementación de **Inteligencia Artificial** y reconocimiento de imágenes para interpretar el entorno y proporcionar feedback por síntesis de voz.
-* **[RegistrAPP](Proyecto Universitario)** 📱
+* **[RegistrAPP](https://github.com/Nashrem/RegristAPP)** 📱
     * Aplicación móvil de asistencia académica desarrollada con **Ionic** y **Angular**.
-
 
 ### 🚀 Educación y Certificaciones
 - 🎓 **Ingeniería en Informática** (Duoc UC).
